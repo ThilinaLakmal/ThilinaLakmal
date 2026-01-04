@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Thilina Lakmal</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
+<picture> <img align="center" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 350px></picture>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thilinasliit&label=Profile%20views&color=0e75b6&style=flat" alt="thilinasliit" /> </p>
 

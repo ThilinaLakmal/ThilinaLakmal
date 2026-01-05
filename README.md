@@ -3,9 +3,9 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thilinasliit&label=Profile%20views&color=0e75b6&style=flat" alt="thilinasliit" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ThilinaLakmal&label=Profile%20views&color=0e75b6&style=flat" alt="ThilinaLakmal" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thilinasliit" alt="thilinasliit" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ThilinaLakmal" alt="ThilinaLakmal" /></a> </p>
 
 - 🌱 I’m currently learning **Bachelor of Science Honours in Information Technology in SLIIT**
 

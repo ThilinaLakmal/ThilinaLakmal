@@ -1,5 +1,5 @@
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
-<h1 align="center">Hi ✌, I'm Dushan</h1>
+<h1 align="center">Hi ✌, I'm Thilina</h1>
 <h3 align="center">"Code Alchemist: Turning Ideas into Innovation"</h3>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=DushanAroshana&label=Profile%20views&color=0e75b6&style=flat" alt="DushanAroshana" /> </p>
@@ -8,21 +8,9 @@
 
 - 🌱 I am currently an undergraduate student at SLIIT
 
-- 📫 How to reach me *dushanaroshana5@gmail.com*
-
-<p align="center">
-<a href="https://www.linkedin.com/in/dushan-aroshana-09068b371/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dushan-aroshana-09068b371/" height="30" width="40" /></a>
-<!-- <a href="https://stackoverflow.com/users/25704027" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="25704027" height="30" width="40" /></a> -->
-</p>
+- 📫 How to reach me *thilinalakmal284@gmail.com*
 
 
-
-<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="100px">&nbsp;GitHub Stats ....**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DushanAroshana&theme=chartreuse-dark&hide_border=true&border_radius=5" height="170" />
-  <img src="https://streak-stats.demolab.com?user=DushanAroshana&locale=en&mode=daily&theme=chartreuse-dark&hide_border=true&border_radius=5" height="170" alt="streak graph">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DushanAroshana&&exclude_repo=dialgolum&layout=compact&theme=chartreuse-dark&hide_border=true&border_radius=5" alt="languages"/>
-</p>
 
 ---
 

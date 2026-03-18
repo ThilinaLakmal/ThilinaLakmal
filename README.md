@@ -1,20 +1,104 @@
-<p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
-<h1 align="center">Hi ✌, I'm Thilina</h1>
-<h3 align="center">"Code Alchemist: Turning Ideas into Innovation"</h3>
+<h1 align="center">Hi there, I'm Thilina Lakmal 👋</h1>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=DushanAroshana&label=Profile%20views&color=0e75b6&style=flat" alt="DushanAroshana" /> </p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Associate+Software+Engineer;Full+Stack+Developer;ERP+%26+AI/ML+Enthusiast" alt="Typing SVG" />
+</p>
 
-
-
-- 🌱 I am currently an undergraduate student at SLIIT
-
-- 📫 How to reach me *thilinalakmal284@gmail.com*
-
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20my%20Profile&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=gradient" alt="header"/>
+</p>
 
 ---
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;Languages and Tools ....**
+## 👨‍💻 About Me
 
-<p align="center"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Scar1109/skill-icons/main/icons/C.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Scar1109/skill-icons/main/icons/CPP.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Scar1109/skill-icons/main/icons/Git.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Scar1109/skill-icons/main/icons/Java-Light.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Scar1109/skill-icons/main/icons/JavaScript.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Scar1109/skill-icons/main/icons/MySQL-Light.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Scar1109/skill-icons/main/icons/PHP-Light.svg" alt="php" width="40" height="40"/> <img src="https://raw.githubusercontent.com/Scar1109/skill-icons/main/icons/HTML.svg" alt="php" width="40" height="40"/> <img src="https://raw.githubusercontent.com/Scar1109/skill-icons/main/icons/CSS.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/TypeScript.svg" alt="typescript" width="40" height="40"/> </a> 
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/ExpressJS-Light.svg" alt="express" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/React-Light.svg" alt="react" width="40" height="40"/>  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/NodeJS-Light.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/MongoDB.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/TailwindCSS-Light.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Postman.svg" alt="postman" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Kotlin-Light.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Figma-Light.svg" alt="figma" width="40" height="40"/> </a> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/AndroidStudio-Light.svg" alt="android" width="40" height="40"/> </a>  </p>
+- 🎓 Undergraduate at **SLIIT** – Software Engineering  
+- 💼 Associate Software Engineer  
+- 🌱 Learning **ERP Systems & AI/ML**  
+- 💡 Full Stack Developer with hands-on experience in ERP, scalable backend architectures, and web platforms  
+- 📫 Contact: **[thilinalakmal284@gmail.com@]**  
+- 💬 Ask me about **Web Development, ERP Systems, React, and Backend Architecture**
+
+---
+
+
+
+## 🛠️ Technologies I Use
+
+### Frontend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,bootstrap,sass" />
+</p>
+
+### Backend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,flask,firebase,mongodb,mysql,postgresql" />
+</p>
+
+### Tools & Platforms
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,photoshop,illustrator,xd,docker,postman,linux" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AsipathT&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AsipathT&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsipathT&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🔥 Contributions
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AsipathT&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AsipathT&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies"/>
+</p>
+
+---
+
+## 📈 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ThilinaLakmal&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+</p>
+
+---
+
+## 🤝 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/thilina-lakmal-90b3163a1/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:thilinalakmal284@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/ThilinaLakmal" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="footer"/>
+</p>
+
+<p align="center">
+  ⭐️ From <a href="https://github.com/ThilinaLakmal">ThilinaLakmal</a>
+</p>

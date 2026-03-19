@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Thilina Lakmal 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Associate+Software+Engineer;Full+Stack+Developer;ERP+%26+AI/ML+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Associate+Software+Engineer;Full+Stack+Developer" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 - 💼 Associate Software Engineer  
 - 🌱 Learning **ERP Systems & AI/ML**  
 - 💡 Full Stack Developer with hands-on experience in ERP, scalable backend architectures, and web platforms  
-- 📫 Contact: **[thilinalakmal284@gmail.com@]**  
+- 📫 Contact: **[thilinalakmal284@gmail.com]**  
 - 💬 Ask me about **Web Development, ERP Systems, React, and Backend Architecture**
 
 ---
@@ -58,7 +58,7 @@
 ## 🔥 Contributions
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AsipathT&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ThilinaLakmal&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
 
 ---
@@ -66,7 +66,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AsipathT&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ThilinaLakmal&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies"/>
 </p>
 
 ---

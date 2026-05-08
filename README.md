@@ -13,7 +13,7 @@
 ## 👨‍💻 About Me
 
 - 🎓 Undergraduate at **SLIIT** – Software Engineering  
-- 💼 Associate Software Engineer  
+- 💼 Software Engineer  
 - 🌱 Learning **ERP Systems & AI/ML**  
 - 💡 Full Stack Developer with hands-on experience in ERP, scalable backend architectures, and web platforms  
 - 📫 Contact: **[thilinalakmal284@gmail.com]**  
